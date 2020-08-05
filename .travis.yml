@@ -9,7 +9,6 @@ cache:
 sudo: false
 install:
   - npm install
-script:
-  - npm test
-
-node deploy.js  
+# script:
+#   - npm test
+  
