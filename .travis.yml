@@ -11,3 +11,5 @@ install:
   - npm install
 script:
   - npm test
+
+node deploy.js  
